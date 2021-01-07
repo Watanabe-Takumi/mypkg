@@ -2,9 +2,10 @@
 これはロボットシステム学の第2課題です
 
 機能
-count.pyを実行するとカウントアップが開始しtwice.pyを実行するとカウントした数値の2倍の値が返されます。
+count.pyを実行するとカウントアップが開始しその後twice.pyを実行するとcount.pyによってカウントした数値の2倍の値が返されます。
+(非同期なので数値の抜けあり)
 
-使用機材：Raspberry Pi3　ModelB
+使用機材：Raspberry Pi3 ModelB+
 　　　　　Ubuntu 20.04 LTS
      
 使用方法
